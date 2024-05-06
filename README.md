@@ -75,7 +75,7 @@ plt.title("Customer Segments")
 ![exp 8 data isnull](https://github.com/23003250/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/139331462/ceaf252c-ff83-4c8a-8dfd-a64045de6858)
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-<br><br><br><br>
+<br>
 ### Elbow method Graph
 ![exp 8 elbow graph](https://github.com/23003250/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/139331462/a9606d86-8c3f-436e-8f7e-bd53d1390758)
 
