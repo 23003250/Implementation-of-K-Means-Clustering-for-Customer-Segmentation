@@ -39,6 +39,8 @@ for i in range(1,11):
   kmeans=KMeans(n_clusters = i,init = "k-means++")
   kmeans.fit(data.iloc[:,3:])
   wcss.append(kmeans.inertia_)
+```
+```
 plt.plot(range(1,11),wcss)
 plt.xlabel("No of Clusters")
 plt.ylabel("wcss")
