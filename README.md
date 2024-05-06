@@ -67,7 +67,7 @@ plt.title("Customer Segments")
 ## Output:
 ### data.head() function
 ![EXP 8 DATA](https://github.com/23003250/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/139331462/bd60da6b-82e1-4eb1-86a5-ad79b695f0ff)
-
+<br><br><br><br><br><br>
 ### data.info()
 ![exp 8 data info](https://github.com/23003250/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/139331462/70a0cb11-90f4-4d08-b8b7-ca4d0a61a0bc)
 
